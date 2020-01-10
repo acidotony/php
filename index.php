@@ -1,3 +1,4 @@
+<?php
 <script src="http://code.jquery.com/jquery-latest.js"></script>
 <script>
  $(document).ready(function(){
@@ -16,3 +17,5 @@
  }
 </script>
 <span id="hours">0</span>:<span id="minutes">0</span>:<span id="seconds">0</span>
+echo "Bonjour, pedazo de soquete!"; 
+?>
